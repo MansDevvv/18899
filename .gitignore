@@ -1,10 +1,9 @@
-```
-# Unity-specific ignores
+# Unity project files
 Library/
 Temp/
 Obj/
 Build/
-Logs/
+Builds/
 *.unityproj
 *.sln
 *.csproj
@@ -14,35 +13,55 @@ Logs/
 *.booproj
 *.svd
 *.meta
-*.cache
+*.prefab
+*.asset
+*.mat
+*.anim
+*.controller
+*.unity
+*.prefab.meta
+*.asset.meta
+*.mat.meta
+*.anim.meta
+*.controller.meta
+*.unity.meta
 *.asmdef
 *.rsp
 *.asmref
 
 # Build artifacts
-*.dll
 *.exe
-*.pdb
-*.mdb
-*.ilk
-*.exp
-*.lib
+*.dll
 *.so
 *.dylib
-
-# Configuration
-.vscode/
-.idea/
 
 # Environment
 .env
 .env.local
-*.env.*
+.env.*
 
 # Logs
 *.log
+crashlytics-build.properties
 
 # OS generated files
 .DS_Store
 Thumbs.db
-```
+ehthumbs.db
+Icon?
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+
+# Temp files
+*.tmp
+*.temp
+*.bak
+
+# Dependencies
+node_modules/
+Packages/manifest.json
+Packages/packages-lock.json
+!Assets/Scripts/WorldGenerator.cs
