@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 03ff017aba850644e8ec7ed6c401cfb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1033506916984587071
+    second: walls_wood (6)_0
+  - first:
+      213: 8221534679280397358
+    second: walls_wood (6)_1
+  - first:
+      213: -6918177415859068851
+    second: walls_wood (6)_2
+  - first:
+      213: -1169889994837084796
+    second: walls_wood (6)_3
+  - first:
+      213: 4114986038523564456
+    second: walls_wood (6)_4
+  - first:
+      213: 4443887398011749387
+    second: walls_wood (6)_5
+  - first:
+      213: 6295726839017014089
+    second: walls_wood (6)_6
+  - first:
+      213: 922106352912181261
+    second: walls_wood (6)_7
+  - first:
+      213: -1062498347229786021
+    second: walls_wood (6)_8
+  - first:
+      213: 510587998838303224
+    second: walls_wood (6)_9
+  - first:
+      213: 6120470771105127437
+    second: walls_wood (6)_10
+  - first:
+      213: 486086134938540997
+    second: walls_wood (6)_11
+  - first:
+      213: -8153769187749451212
+    second: walls_wood (6)_12
+  - first:
+      213: 767746424196495261
+    second: walls_wood (6)_13
+  - first:
+      213: -6948903290823999722
+    second: walls_wood (6)_14
+  - first:
+      213: 4727117887803850367
+    second: walls_wood (6)_15
+  - first:
+      213: 1572228204097201087
+    second: walls_wood (6)_16
+  - first:
+      213: -7944777165476794939
+    second: walls_wood (6)_17
+  - first:
+      213: 9020290161051338529
+    second: walls_wood (6)_18
+  - first:
+      213: -409833612688177562
+    second: walls_wood (6)_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 321
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walls_wood (6)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2239
+        width: 321
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3386c3b011c75e00800000000000000
+      internalID: 1033506916984587071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_wood (6)_1
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2239
+        width: 322
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c20133b32c81270800000000000000
+      internalID: 8221534679280397358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_wood (6)_2
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2239
+        width: 322
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40279a5b42bdff90800000000000000
+      internalID: -6918177415859068851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_wood (6)_3
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 2239
+        width: 322
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485b37f7f37b3cfe0800000000000000
+      internalID: -1169889994837084796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_wood (6)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1759
+        width: 321
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a193e9fffd5b1930800000000000000
+      internalID: 4114986038523564456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_wood (6)_5
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1759
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0443543b0cdbad30800000000000000
+      internalID: 4443887398011749387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_wood (6)_6
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1759
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9438082343aee5750800000000000000
+      internalID: 6295726839017014089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_wood (6)_7
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1759
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08267aa7dafbcc00800000000000000
+      internalID: 922106352912181261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_wood (6)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1279
+        width: 321
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50ddeee16f3141f0800000000000000
+      internalID: -1062498347229786021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_wood (6)_9
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1279
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9a5596419f51700800000000000000
+      internalID: 510587998838303224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_wood (6)_10
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1279
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cd1e91db740f450800000000000000
+      internalID: 6120470771105127437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_wood (6)_11
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1279
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb114ba3cceeb600800000000000000
+      internalID: 486086134938540997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_wood (6)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 799
+        width: 321
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a2bafcf1ef7de80800000000000000
+      internalID: -8153769187749451212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_wood (6)_13
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 799
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97fecb1e4597aa00800000000000000
+      internalID: 767746424196495261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_wood (6)_14
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 799
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f74eb1649809f90800000000000000
+      internalID: -6948903290823999722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_wood (6)_15
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 799
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e71f17ca81a9140800000000000000
+      internalID: 4727117887803850367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_wood (6)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 321
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3601bb83da1d510800000000000000
+      internalID: 1572228204097201087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_wood (6)_17
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 319
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdee10e24b7eb190800000000000000
+      internalID: -7944777165476794939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_wood (6)_18
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 319
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1278a642c128e2d70800000000000000
+      internalID: 9020290161051338529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_wood (6)_19
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 319
+        width: 322
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666c4ba208aff4af0800000000000000
+      internalID: -409833612688177562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a39298d1e1a6afc42a03df52baffe200
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      walls_wood (6)_0: 1033506916984587071
+      walls_wood (6)_1: 8221534679280397358
+      walls_wood (6)_10: 6120470771105127437
+      walls_wood (6)_11: 486086134938540997
+      walls_wood (6)_12: -8153769187749451212
+      walls_wood (6)_13: 767746424196495261
+      walls_wood (6)_14: -6948903290823999722
+      walls_wood (6)_15: 4727117887803850367
+      walls_wood (6)_16: 1572228204097201087
+      walls_wood (6)_17: -7944777165476794939
+      walls_wood (6)_18: 9020290161051338529
+      walls_wood (6)_19: -409833612688177562
+      walls_wood (6)_2: -6918177415859068851
+      walls_wood (6)_3: -1169889994837084796
+      walls_wood (6)_4: 4114986038523564456
+      walls_wood (6)_5: 4443887398011749387
+      walls_wood (6)_6: 6295726839017014089
+      walls_wood (6)_7: 922106352912181261
+      walls_wood (6)_8: -1062498347229786021
+      walls_wood (6)_9: 510587998838303224
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
